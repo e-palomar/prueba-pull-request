@@ -11,4 +11,5 @@ Curso: 1º DAW-SEMI
 Aportacion de Marc
 Curso: 1º DAW-SEMI
 ------
-
+Aportacion de David
+Me gusta JavaScript, es mi pasión
