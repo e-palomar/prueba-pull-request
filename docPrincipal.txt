@@ -1,3 +1,7 @@
+Aportación de Marcos
+Curso: 1er DAW
+Comentario:
+He aprendido a trabajar con ramas y pull request. Más o menos.
 Aportación de Marina
 Curso: 1ro DAW semi
 Comentario: probando ramas en github pull request.
@@ -15,3 +19,15 @@ Aportacion de Fran
 Curso 1º DAW
 Comentario:
 Gracias a estas prácticas estoy aprendiendo a usar git y github
+Aportación de Alexandra
+Curso: 1º DAW
+Comentario:
+Estamos trabajando pull-request en clase.
+Aportacion de Santiago
+Curso: 1º DAW
+Comentario: He aprendido a trabajar con ramas y pull request. Mas o Menos...
+------
+Aportación de Álvaro
+Curso: 1ºDAW
+Comentario: alvaro se la come
+
