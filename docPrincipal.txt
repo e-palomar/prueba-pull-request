@@ -35,9 +35,14 @@ Comentario: He aprendido a trabajar con ramas y pull request. Mas o Menos...
 ------
 Aportación de Álvaro
 Curso: 1ºDAW
+Comentario: alvaro se la come
+-----
+Aportacion de Rodolfo
+Curso: 1ºDAW
+Comentario: Hola
 Comentario: rodolfo es mi negrito fav
 
 Aportación de Hao
 Curso: 1ºDAW
-Comentario: ETA no era tan malo 
+Comentario: ETA no era tan malo, lo dice el chino
 
