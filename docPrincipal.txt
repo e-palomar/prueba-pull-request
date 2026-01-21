@@ -20,3 +20,22 @@ Aportacion de Diego P
 Curso: 1º DAW-SEMI
 ------
 
+Aportacion de Fran
+Curso 1º DAW
+Comentario:
+Gracias a estas prácticas estoy aprendiendo a usar git y github
+Aportación de Alexandra
+Curso: 1º DAW
+Comentario:
+Estamos trabajando pull-request en clase.
+Aportacion de Santiago
+Curso: 1º DAW
+Comentario: He aprendido a trabajar con ramas y pull request. Mas o Menos...
+------
+Aportación de Álvaro
+Curso: 1ºDAW
+Comentario: alvaro se la come
+------
+Aportación de Marti
+Curso: 1ºDAW
+Comentario: github mola jjejen adios
