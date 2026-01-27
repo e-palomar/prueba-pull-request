@@ -70,3 +70,10 @@ es una operación quirúrgica que consiste en cortar una porción o la totalidad
 Se practica principalmente por motivos rituales o médicos. Cuando se realiza como procedimiento médico se denomina postectomía.
 -----------------git ---------------
 Me llamo marti ++
+
+--------------------------------
+Aportación de Gabriele
+Curso: 1º DAM-SEMI
+Comentario:
+He aprendido a trabajar con ramas y pull request.(Totalmente mentira) charlie kirk
+--------------------------------
